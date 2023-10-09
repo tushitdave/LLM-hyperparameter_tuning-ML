@@ -1,0 +1,111 @@
+Attrition: discrete.
+Gender: discrete.
+OverTime: discrete.
+SalesDpt: discrete.
+JobInvCut: discrete.
+MiddleTraining: discrete.
+MoovingPeople: discrete.
+NotSatif: discrete.
+LongDisWL1: discrete.
+LongDis: discrete.
+LongDisJobS1: discrete.
+LongDisJL1: discrete.
+ShortDisNotSingle: discrete.
+LongDisSingle: discrete.
+Engaged: discrete.
+YoungAndBadPaid: discrete.
+YoungNeverEngaged: discrete.
+BusinessTravel_Non-Travel: discrete.
+BusinessTravel_Travel_Frequently: discrete.
+BusinessTravel_Travel_Rarely: discrete.
+Department_Human Resources: discrete.
+Department_Research & Development: discrete.
+Department_Sales: discrete.
+Education_1: discrete.
+Education_2: discrete.
+Education_3: discrete.
+Education_4: discrete.
+Education_5: discrete.
+EducationField_Human Resources: discrete.
+EducationField_Life Sciences: discrete.
+EducationField_Marketing: discrete.
+EducationField_Medical: discrete.
+EducationField_Other: discrete.
+EducationField_Technical Degree: discrete.
+EnvironmentSatisfaction_1: discrete.
+EnvironmentSatisfaction_2: discrete.
+EnvironmentSatisfaction_3: discrete.
+EnvironmentSatisfaction_4: discrete.
+JobInvolvement_1: discrete.
+JobInvolvement_2: discrete.
+JobInvolvement_3: discrete.
+JobInvolvement_4: discrete.
+JobLevel_1: discrete.
+JobLevel_2: discrete.
+JobLevel_3: discrete.
+JobLevel_4: discrete.
+JobLevel_5: discrete.
+JobRole_Healthcare Representative: discrete.
+JobRole_Human Resources: discrete.
+JobRole_Laboratory Technician: discrete.
+JobRole_Manager: discrete.
+JobRole_Manufacturing Director: discrete.
+JobRole_Research Director: discrete.
+JobRole_Research Scientist: discrete.
+JobRole_Sales Executive: discrete.
+JobRole_Sales Representative: discrete.
+JobSatisfaction_1: discrete.
+JobSatisfaction_2: discrete.
+JobSatisfaction_3: discrete.
+JobSatisfaction_4: discrete.
+MaritalStatus_Divorced: discrete.
+MaritalStatus_Married: discrete.
+MaritalStatus_Single: discrete.
+RelationshipSatisfaction_1: discrete.
+RelationshipSatisfaction_2: discrete.
+RelationshipSatisfaction_3: discrete.
+RelationshipSatisfaction_4: discrete.
+StockOptionLevel_0: discrete.
+StockOptionLevel_1: discrete.
+StockOptionLevel_2: discrete.
+StockOptionLevel_3: discrete.
+TrainingTimesLastYear_0: discrete.
+TrainingTimesLastYear_1: discrete.
+TrainingTimesLastYear_2: discrete.
+TrainingTimesLastYear_3: discrete.
+TrainingTimesLastYear_4: discrete.
+TrainingTimesLastYear_5: discrete.
+TrainingTimesLastYear_6: discrete.
+WorkLifeBalance_1: discrete.
+WorkLifeBalance_2: discrete.
+WorkLifeBalance_3: discrete.
+WorkLifeBalance_4: discrete.
+RelSatisf_mean_1.0: discrete.
+RelSatisf_mean_1.5: discrete.
+RelSatisf_mean_2.0: discrete.
+RelSatisf_mean_2.5: discrete.
+RelSatisf_mean_3.0: discrete.
+RelSatisf_mean_3.5: discrete.
+RelSatisf_mean_4.0: discrete.
+JobSatisf_mean_1.0: discrete.
+JobSatisf_mean_1.5: discrete.
+JobSatisf_mean_2.0: discrete.
+JobSatisf_mean_2.5: discrete.
+JobSatisf_mean_3.0: discrete.
+JobSatisf_mean_3.5: discrete.
+JobSatisf_mean_4.0: discrete.
+DailyRate: continuous.
+HourlyRate: continuous.
+MonthlyRate: continuous.
+PercentSalaryHike: continuous.
+TotalWorkingYears: continuous.
+YearsInCurrentRole: continuous.
+YearsSinceLastPromotion: continuous.
+YearsWithCurrManager: continuous.
+TotalSatisfaction_mean: continuous.
+Time_in_each_comp: continuous.
+Income_Distance: continuous.
+Hrate_Mrate: continuous.
+Stability: continuous.
+Income_YearsComp: continuous.
+Fidelity: continuous.
